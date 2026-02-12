@@ -1744,6 +1744,21 @@ curl -X DELETE http://localhost:8000/conversations/john/{conv_id}
 ```
 
 ---
+## Context Window Limitation
+
+Currently, full conversation history is injected into the LLM using add_history_to_context=True.
+
+If the accumulated token count exceeds the model's context window (128k tokens for GPT-4o), the request may fail with a context length error.
+
+Planned Improvements:
+
+Sliding window strategy (retain last N messages)
+
+Summarization of older context
+
+Token estimation before request execution
+
+---
 
 ## Conclusion
 
