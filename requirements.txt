@@ -1,0 +1,17 @@
+sqlalchemy 
+psycopg[binary]
+fastapi
+uvicorn
+openai
+pydantic
+sqlalchemy
+numpy
+scikit-learn
+pypdf
+agno
+python-dotenv
+crawl4ai
+nest_asyncio
+playwright 
+pytest
+httpx
