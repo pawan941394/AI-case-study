@@ -1,4 +1,4 @@
-<img width="2402" height="2466" alt="diag" src="https://github.com/user-attachments/assets/e8204cf5-a81f-4910-bb79-36d53359d7a9" /># Conversational AI Backend with RAG
+# Conversational AI Backend with RAG
 
 A production-ready conversational AI backend built with FastAPI, featuring both open-ended chat and grounded RAG (Retrieval-Augmented Generation) capabilities. The system integrates OpenAI's GPT models through an agent framework, supports PDF-based knowledge retrieval, web crawling, and maintains persistent conversation history.
 
