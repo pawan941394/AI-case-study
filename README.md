@@ -116,9 +116,8 @@ The system is designed for applications requiring both conversational flexibilit
                               └────────────────────────┘
 ```
 
-<img width="2402" height="2466" alt="diag" src="https://github.com/user-attachments/assets/e8204cf5-a81f-4910-bb79-36d53359d7a9" />
 
-
+<img width="2402" height="2466" alt="diag" src="https://github.com/user-attachments/assets/a26d86a2-2d22-49fa-a46a-a26301d35a1b" />
 
 
 ---
